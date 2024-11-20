@@ -1,10 +1,6 @@
 Hi,Me name is Michael.
-I graduated technical school as Informatics.
-I`m highly motivated, self-starting developer seeking to launch a career building web aplications and services.
-Familiar with development and deployment process for many web-based technologies.
-I'm focused, dedicated, hard-working and willing to learn in a changing and challenging environment.
-I spend most of my time developing my skills in technologies such as Html, CSS, JavaScript, Python, Django, PostgresSQL,
-Ubuntu-linux.
+
+I am a beginner frontend developer with a passion for creating modern, responsive, and functional interfaces. From my very first lines of code, I discovered how technology and design can come together to shape unique user experiences. Every new challenge is an opportunity for me to learn and improve my skills. My goal is to build websites that not only look great but also function seamlessly and are intuitive to use. I am ready to grow and take on new projects that transform visions into digital reality.
 
 
 <!---
